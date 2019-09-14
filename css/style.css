@@ -1,0 +1,22 @@
+header {
+    background-color: #00ced1;
+    font-size: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 30px;
+    text-align: left;
+}
+
+main img {
+    width:10%;
+    height: 10%;
+}
+
+
+body {
+    background-color: #bbffff;
+    margin: 0px;
+    text-align: center;
+
+}
+
